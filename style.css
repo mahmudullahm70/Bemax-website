@@ -316,7 +316,10 @@ body{
 	color: white;
 	font-size: 18px;
 }
-.project-tags{}
+.project-tags{
+
+}
+
 .project-tags a {
 	text-decoration: none;
 	color: white;
@@ -332,7 +335,10 @@ body{
 
 
 
-.choose-area{}
+.choose-area{
+
+}
+
 .choose-title {
 	text-align: center;
 	margin-bottom: 90px;
@@ -360,7 +366,10 @@ body{
 .video-area img {
 	width: 100%;
 }
-.popup-video{}
+.popup-video{
+
+}
+
 .popup-video i {
 	position: absolute;
 	top: 0;
@@ -385,7 +394,10 @@ body{
 	font-size: 20px;
 	margin-bottom: 15px;
 }
-.choose-dese{}
+.choose-dese{
+
+}
+
 .choose-dese p {
 	color: #555555;
 	font-size: 20px;
@@ -442,7 +454,10 @@ body{
 	margin-left: 200px;
 }
 
-.working-img{}
+.working-img{
+
+}
+
 .working-img img {
 	margin-left: 190px;
 }
@@ -455,10 +470,15 @@ body{
 /*    latest-area start     */
 
 
-.latest-area {}
+.latest-area {
+
+}
+
 
 .blog-area {
+
 }
+
 .latest-blog {
 	display: flex;
 	margin-bottom: 40px;
@@ -510,7 +530,9 @@ body{
 	color:white ;
 	font-size: 18px;
 }
-.latest-img span a{}
+.latest-img span a{
+
+}
 
 .latest-text {
 	margin-left: 22px;
@@ -539,7 +561,10 @@ body{
 .testimonal-area {
 	padding-left: 35px;
 }
-.testimonial-contant{}
+.testimonial-contant{
+
+}
+
 .testimonial-contant h4 {
 	font-size: 23px;
 	color: #333333;
@@ -557,7 +582,10 @@ body{
 	height: 2px;
 	background: #ADADAD;
 }
-.testimonal-text{}
+.testimonal-text{
+
+}
+
 .testimonal-text p {
 	margin: 22px;
 	padding-bottom: 17px;
