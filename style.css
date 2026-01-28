@@ -107,7 +107,11 @@ body{
 	background: #507BD6;
 	padding: 25px;
 }
-.cta-text{}
+
+.cta-text{
+
+}
+
 .cta-text p {
 	color: #f8f6f6;
 	font-size: 20px;
